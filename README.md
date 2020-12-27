@@ -1,24 +1,18 @@
 # harp.gl-vue-example
 
+An example to run harp.gl on with Vue.js + TypeScript
+
 ## Project setup
+
 ```
-yarn install
+npm install
 ```
 
-### Compiles and hot-reloads for development
 ```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
+npm run build:harp-gl-decoder
 ```
 
-### Lints and fixes files
 ```
-yarn lint
+npm run serve
+npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
